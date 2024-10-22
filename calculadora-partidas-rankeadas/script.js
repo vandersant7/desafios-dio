@@ -24,6 +24,7 @@ function rankHeroRanking(
       }
 }
 
+
 function rankedMatchCalculator(victoryQuantity, defeatQuantity) {
   let resultRank = victoryQuantity - defeatQuantity
   return resultRank 
